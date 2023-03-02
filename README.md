@@ -36,7 +36,7 @@ Building the project hardware means setting up and assembling all the hardware c
     Then take a male to female jumping wire and connect male side to the n diode terminal. The female end of wire should be connected to positive side of relay coil. 
 
  
-[![Semantic description of image](/images/image.png "Simplified Circuit Diagram")*Simplified Circuit Diagram*]
+[![Semantic description of image](/images/image.png "Simplified Circuit Diagram")*Simplified Circuit Diagram*
 
 #### Step 2
     Take another male-to-male jumping wire, insert one end in the GND point of Bolt module and other end on the board.
